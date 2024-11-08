@@ -18,3 +18,5 @@ https://github.com/VARSHITHA-DARMINI/23CSBTB30/blob/main/Assignment_6%20(1927).i
 https://github.com/VARSHITHA-DARMINI/23CSBTB30/blob/main/Copy_of_SVM.ipynb
 
 https://github.com/VARSHITHA-DARMINI/23CSBTB30/blob/main/Tree_classification.ipynb
+
+https://github.com/VARSHITHA-DARMINI/23CSBTB30/blob/main/AIML_labexam.ipynb
